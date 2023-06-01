@@ -1,3 +1,4 @@
+# The code in this file is a mass broadcaster. Instead we should be able to subscribe to particular topics
 import asyncio
 
 class PubSubServer:
